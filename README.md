@@ -47,3 +47,4 @@ The complete Excel analysis and dashboard are available in the repository.
 ## Conclusion
 
 RFM analysis provides a useful way to understand customer purchasing behavior and support data-driven customer retention and marketing decisions.
+
