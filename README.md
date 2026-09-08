@@ -8,6 +8,7 @@ This project analyzes customer data using RFM (Recency, Frequency, Monetary) ana
 Customer_Segment_RFM_Dashboard.png
 
 
+
 ## Tools & Technologies
 
 - Microsoft Excel
