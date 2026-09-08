@@ -5,7 +5,7 @@
 This project analyzes customer data using RFM (Recency, Frequency, Monetary) analysis to understand customer behavior and segment customers based on their purchasing patterns.
 ## Dashboard
 
-![Customer Segmentation RFM Dashboard](1000095539.jpg)
+Customer_Segment_RFM_Dashboard.png
 
 
 ## Tools & Technologies
